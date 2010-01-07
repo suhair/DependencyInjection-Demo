@@ -1,0 +1,13 @@
+D:\FinalApp\MVCSample\MVCSample\bin\MVCSample.dll
+D:\FinalApp\MVCSample\MVCSample\bin\MVCSample.pdb
+D:\FinalApp\MVCSample\MVCSample\obj\Debug\ResolveAssemblyReference.cache
+D:\FinalApp\MVCSample\MVCSample\obj\Debug\MVCSample.dll
+D:\FinalApp\MVCSample\MVCSample\obj\Debug\MVCSample.pdb
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.dll
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.StructureMap.dll
+D:\FinalApp\MVCSample\MVCSample\bin\StructureMap.dll
+D:\FinalApp\MVCSample\MVCSample\bin\Microsoft.Web.Mvc.dll
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.StructureMap.pdb
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.StructureMap.xml
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.pdb
+D:\FinalApp\MVCSample\MVCSample\bin\MvcContrib.xml
